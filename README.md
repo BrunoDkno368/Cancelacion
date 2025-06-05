@@ -10,10 +10,15 @@ limpiamos los dato nulos y normalizamos las columnas con sus respectivos datos c
 despues de hacer al analisis exploratorio podemos realizar las graficas y lo que visualizamos es
 
 EL genero no influye en la tasa de cancelacion
+
 Los Clientes mayores de 70 casi un 84% en seguir en la empresa
+
 Cuando un cliente tiene varios servicios juntos y el gasto total es mayor tiene poca posibilidad de irse
+
 Los cliebtes que tienen contraros mas lagros tiene una posibilidad menor de cancelar el servicio
+
 Un cliente que tiene un metodo de pago automatico tiene menos posibilidadades de abandonar el servicio 
 
 
+[challenger cancelacion.pdf](https://github.com/user-attachments/files/20602280/challenger.cancelacion.pdf)
 
